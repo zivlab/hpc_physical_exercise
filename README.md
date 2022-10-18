@@ -1,12 +1,11 @@
-# Exercise increases information content and affects long-term stability of hippocampal place code
+# Exercise increases information content and affects long-term stability of hippocampal place codes
 
-This repository includes analyses and several data sets presented in Sheintuch, Geva et al., 2020.
+This repository includes analyses and several data sets presented in Rechavi et al., 2022.
 
 Usage and documentation
-Scripts are provided in the Scripts directory. Data sets are provided in the Data directory.
+Scripts and the required processed data are provided in the Data directory.
 
-To perform the analysis on the provided data sets, use the multiple_maps.m script.
-Before running the script, change the data_pathway to the Data directory on your computer.
+To perform the analysis on the provided data sets, use the Analyses_for_manuscript.m and Model.m scripts.
 
 References
-Sheintuch, L., Geva, N., Baumer, H., Rechavi, Y., Rubin, A., Ziv, Y. (2020). Multiple maps for the same spatial context can stably coexist in the mouse hippocampus. Current Biology 30, 1-10 https://doi.org/10.1016/j.cub.2020.02.018
+Yoav Rechavi*, Alon Rubin*, Ofer Yizhar, Yaniv Ziv (2022). Exercise increases information content and affects long-term stability of hippocampal place codes. Cell Reports
