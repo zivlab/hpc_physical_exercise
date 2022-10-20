@@ -8,5 +8,7 @@ Scripts and the required processed data are provided in the Data directory.
 
 To perform the analysis on the provided data sets, use the Analyses_for_manuscript.m and Model.m scripts.
 
+Repository DOI: [![DOI](https://zenodo.org/badge/553582543.svg)](https://zenodo.org/badge/latestdoi/553582543)
+
 References
 Yoav Rechavi*, Alon Rubin*, Ofer Yizhar, Yaniv Ziv (2022). Exercise increases information content and affects long-term stability of hippocampal place codes. Cell Reports
